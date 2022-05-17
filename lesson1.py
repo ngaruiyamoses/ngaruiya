@@ -1,0 +1,6 @@
+print('Hello world')
+print ("my name is moses ngaruiya")
+print("am a swimmer")
+print("i am 18 yrs old")
+print("i am from kikuyu")
+print("am coding")
