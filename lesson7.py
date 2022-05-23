@@ -22,3 +22,7 @@ print(f"My name is {motorcycle_owner} and i own {motorcycle[0]} ,{plate_number[0
 #removing an item from a list
 motorcycle.remove("Suzuki")
 print(motorcycle)
+print([-1])
+print(motorcycle[-1])
+motorcycle[1] = "boxer"
+#print(motorcycle)

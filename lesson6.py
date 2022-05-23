@@ -39,3 +39,6 @@ name = "Moses Ngaruiya"
 print(name.replace('s','k'))
 
 #the split() method
+
+# Tabs \t
+print("Monday\tTuesday\tWednesday\tSunday")
