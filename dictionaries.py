@@ -23,3 +23,5 @@ print(person)
 #looping over dictionaries
 for key, value in person.items():
     print(f"{value}:{key}")
+
+print(person.get("password"))    
