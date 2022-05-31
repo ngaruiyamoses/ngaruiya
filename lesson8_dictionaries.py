@@ -19,7 +19,7 @@ student["club"]="chui"
 print(student)
  
  #empty dictionary
-student={}
+#student={}
 student["fav_food"]="chapati"
 student["home_city"]="kikuyu"
 print(student)
@@ -29,7 +29,7 @@ student["Name"]="John"
 print(student)
 
 for number in range(0,9):
-    print(number)
+    #7print(number)
     print(number**2)
     print("number\tsquare")
     print("==============")

@@ -2,7 +2,7 @@
 
 age = 18
 
-no_of_sibling = 17
+no_of_sibling = 4
 noOfSibling = 4
 
 dateOfBirth = 20
@@ -14,7 +14,7 @@ my_second_name = "Ngaruiya"
 favouriteFood = "Nyama Choma"
 
 print(" I am  " + my_first_name)
-print(" I am " + no_of_sibling)
-print(" I am " + favouriteFood)
+print(" I have " + str(no_of_sibling) + "siblings")
+print(" I love " + favouriteFood)
 print(" I am " + str(age) + "years old")
 
