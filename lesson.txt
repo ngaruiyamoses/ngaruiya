@@ -1,0 +1,4 @@
+this is a normal text file
+####
+f = open(")
+am coding
