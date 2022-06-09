@@ -2,7 +2,20 @@
 f = open("test.txt")
 f = open("test.txt","w")
 
-"""
+open file : file_name.open()
+write file : .write()
+append : .append()
+close : .close()
+read : .read()
+seek : .seek('A')
+tell : .tell()
+
+#files operations
+f = open("test.txt")
+f = open("test.txt",'w')
+f = open("img.bmp",'r+b')
+
+
 r opens a file for reading. (default)
 w opens a file for writing.creates a new file.
 x opens a file for exclusive creation.If the file already exists the operation fails

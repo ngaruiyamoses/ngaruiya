@@ -1,5 +1,5 @@
 ###
-#f = open("lesson.txt")
+f = open("lesson.txt")
 f = open("lesson1.txt",'x')
 print(f.readline())
 """
